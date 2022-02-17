@@ -1,3 +1,3 @@
 # Snake Game using javascript vanilla 
 
-![Screenshot](screenshot.PNG)
+![Screenshot](screenshot.png)
